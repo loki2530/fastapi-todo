@@ -20,19 +20,24 @@ Production-ready RESTful API built using FastAPI and PostgreSQL.
 - Deployed backend service
 
 ## Project Structure
-.
+
+```bash
+fastapi-todo/
+│
 ├── main.py
 ├── database.py
 ├── models.py
 ├── schemas.py
 ├── requirements.txt
+└── .gitignore
+```
 
 ## API Documentation
 Swagger Docs:
-https://your-render-url.onrender.com/docs
+https://fastapi-todo-server-i8u6.onrender.com/docs
 
 ## Live Deployment
-https://your-render-url.onrender.com
+https://fastapi-todo-server-i8u6.onrender.com
 
 ## Installation (Local Setup)
 
